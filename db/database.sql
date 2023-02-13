@@ -1,0 +1,8 @@
+CREATE DATABASE IF NOT EXIST companydb;
+
+
+INSERT INTO employee VALUES
+ ('JOE', 1000),
+ ('HENRY', 2000),
+ ('SAM', 400),
+ ('JUAN', 1000);
